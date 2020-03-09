@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.17.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# UpdateTableInModelAngular
+Update table in pupup Model
+>>>>>>> e70f64f93a1c7915aeee99aeeafcb051b986722c
